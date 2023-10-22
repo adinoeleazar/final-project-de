@@ -9,3 +9,4 @@
 - Airflow
 - GIT
 - PostgreSQL
+- Plotly
